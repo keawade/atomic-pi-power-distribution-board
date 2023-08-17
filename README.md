@@ -1,6 +1,6 @@
 # Atomic Pi power distribution board
 
-![Render of the Atomic Pi power distribution board](./images/atomic-pi-power-distribution-board.png)
+![Render of the Atomic Pi power distribution board](./images/atomic-pi-power-distribution.png)
 
 KiCAD schematics for a simple power distribution board to distribute power to
 up to four Atomic Pi computers with individual power switches for each computer.
